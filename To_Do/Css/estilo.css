@@ -1,0 +1,8 @@
+.tarefas{
+    margin-top: 50px;
+}
+
+.concluida td{
+    text-decoration: line-through;
+    color: gray;
+}
